@@ -3,7 +3,7 @@ NetM
 
 A short description of the project.
 
-Project Organization
+Project Organization (WORK IN PROGRESS)
 ------------
 
     ├── LICENSE
