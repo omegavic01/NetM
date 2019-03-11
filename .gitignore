@@ -92,13 +92,13 @@ target/
 .mypy_cache/
 
 # Unused Folders
-/models/
-/notebooks/
-/references/
-/reports/
+/models
+/notebooks
+/references
+/reports
 
 # Unused Files
-Makefile
-setup.py
-test_environment.py
-tox.ini
+/Makefile
+/setup.py
+/test_environment.py
+/tox.ini
